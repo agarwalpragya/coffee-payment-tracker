@@ -7,9 +7,12 @@
 
 #### No more “Wait, didn’t I pay last time?” arguments.
 
+ <br>
 
----
+<img width="1383" height="885" alt="Screenshot 2025-08-09 at 2 05 16 AM" src="https://github.com/user-attachments/assets/c8baae78-6d0b-49a9-afc7-fbd3cbc4e23a" />
 
+<br>
+ 
 ## ✨ Features
 #### 🧑‍🤝‍🧑 Add team members with their drink of choice and its magical bean price.
 
@@ -21,12 +24,13 @@
 
 #### 💾 Persistent JSON storage — because memories fade, but coffee debts shouldn’t.
 
----
+ <br>
+
 
 ## 🛠 Requirements
 #### Python 3.6+
 
----
+ <br>
 
 ## 🚀 Installation
 ```
@@ -61,7 +65,6 @@ npm run build
 ```
 Then open http://localhost:5000
 
----
+ <br>
 
 ## Run(on) it. Drink Coffee. Repeat. ☕️👩🏻‍💻
-
