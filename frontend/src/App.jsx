@@ -61,10 +61,25 @@ export default function App(){
   }
 
   return (
-    <div className="min-h-screen bg-slate-50 text-slate-800 p-20">
-      <div className="max-w-6xl mx-auto space-y-6">
+    <div className="min-h-screen bg-slate-50 text-slate-800 p-9">
+      <div className="max-w-7xl mx-auto space-y-6">
         <header className="flex items-center justify-between">
-          <h1 className="text-5xl font-bold"> SplitBucks ☕️</h1>
+          <h1
+              className="text-6xl font-bold"
+              style={{
+                display: "flex",
+                flexDirection: "row",   // force row alignment
+                alignItems: "flex-end",   // vertical alignment
+                gap: "12px"              // space between
+              }}
+          >
+            SplitBucks
+            <img
+                src="/favicon.png"
+                alt="SplitBucks Logo"
+                style={{ height: "100px" }}
+            />
+          </h1>
           <button onClick={refresh} className="px-3 py-2 rounded-xl bg-slate-900 text-white">Refresh</button>
         </header>
 
