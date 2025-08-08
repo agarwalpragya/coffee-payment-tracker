@@ -61,14 +61,14 @@ export default function App(){
   }
 
   return (
-    <div className="min-h-screen bg-slate-50 text-slate-800 p-6">
+    <div className="min-h-screen bg-slate-50 text-slate-800 p-20">
       <div className="max-w-6xl mx-auto space-y-6">
         <header className="flex items-center justify-between">
-          <h1 className="text-3xl font-bold"> SplitBucks ☕️</h1>
+          <h1 className="text-5xl font-bold"> SplitBucks ☕️</h1>
           <button onClick={refresh} className="px-3 py-2 rounded-xl bg-slate-900 text-white">Refresh</button>
         </header>
 
-        <h2 className="text-3l"> Payment tracker for your Brew-Crew️ 🤟🏼</h2>
+        <h2 className="text-4l"> Payment tracker for your Brew-Crew️ 🤟🏼</h2>
 
         <section className="grid md:grid-cols-3 gap-4">
           <div className="bg-white rounded-2xl shadow p-4">
