@@ -37,7 +37,7 @@
 Clone this repository:
 
 git clone https://github.com/agarwalpragya/coffee-payment-tracker.git
-cd coffee-tracker
+cd coffee-payment-tracker
 ```
 
 ### Run backend
