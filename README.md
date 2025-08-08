@@ -12,6 +12,7 @@
 <img width="1383" height="885" alt="Screenshot 2025-08-09 at 2 05 16 AM" src="https://github.com/user-attachments/assets/c8baae78-6d0b-49a9-afc7-fbd3cbc4e23a" />
 
 <br>
+<br>
  
 ## ✨ Features
 #### 🧑‍🤝‍🧑 Add team members with their drink of choice and its magical bean price.
@@ -33,6 +34,11 @@
  <br>
 
 ## 🚀 Installation
+
+### Run(on) it. Drink Coffee. Repeat. ☕️👩🏻‍💻
+
+ <br>
+
 ```
 Clone this repository:
 
@@ -62,6 +68,3 @@ npm run build
 ```
 Then open http://localhost:5000
 
- <br>
-
-## Run(on) it. Drink Coffee. Repeat. ☕️👩🏻‍💻
