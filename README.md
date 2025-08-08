@@ -1,4 +1,4 @@
-# ☕ Coffee Payment Tracker ☕️
+# ☕ SplitBucks : Coffee Payment Tracker ☕️
 
 
 ### Because friendships are strong… but coffee debts are stronger. 💰
