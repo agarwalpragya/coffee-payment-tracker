@@ -179,10 +179,6 @@ export default function App(){
             </table>
           </div>
         </section>
-
-        <footer className="text-sm text-slate-500 pb-6">
-          Flask API + React/Tailwind. Algorithm: pick lowest cumulative spender; add round total to their balance; log history.
-        </footer>
       </div>
     </div>
   )
