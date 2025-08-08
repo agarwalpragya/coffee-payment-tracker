@@ -36,9 +36,6 @@
 ```
 Clone this repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/agarwalpragya/coffee-payment-tracker.git
 cd coffee-tracker
 ```
